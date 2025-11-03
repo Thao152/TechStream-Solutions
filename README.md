@@ -1,6 +1,5 @@
 # TechStream Solutions - Streamline Pro Unit Economics Analysis
 
-![TechStream Solutions Logo](https://via.placeholder.com/150)
 
 ## Overview
 
